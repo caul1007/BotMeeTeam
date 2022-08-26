@@ -1,16 +1,16 @@
 {
   "thumb": "https://telegra.ph/file/466ba9fb6fa99d7aba80d.jpg",
-  "namebot": "Senkuu",
-  "botNumber": "6285600757490@s.whatsapp.net",
-  "owner": ["6285799227173@s.whatsapp.net"],
-  "instagram": "https://instagram.com/itsme_emon01",
-  "author": "Emon",
+  "namebot": "ABR",
+  "botNumber": "6285695349377@s.whatsapp.net",
+  "owner": ["6283841403395@s.whatsapp.net"],
+  "instagram": "https://instagram.com/arsaandii",
+  "author": "acul",
   "session": "session",
-  "email": "bansos@gmail.com",
+  "email": "aculking02@gmail.com",
   "self": false,
   "packInfo":{
-    "packname": "BotMee-MD",
-    "author": "Call Me Emon"
+    "packname": "AbrBot-MD",
+    "author": "Call Me Renji"
   },
   "ignore": {
 		"directory": ["umum"]
